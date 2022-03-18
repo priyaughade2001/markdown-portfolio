@@ -7,7 +7,8 @@ layout: default
 <br>
 
 {% include 02-image.md %}
-![Beautiful Image](https://octodex.github.com/images/yaktocat.png)
+(![Beautiful Image](https://octodex.github.com/images/yaktocat.png))
+
 <br>
 
 {% include 03-links.md %}
